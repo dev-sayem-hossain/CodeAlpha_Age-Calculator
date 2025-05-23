@@ -2,6 +2,7 @@
 A simple, elegant web-based application that calculates a user's age in years, months, and days based on their date of birth. Built using HTML, CSS, and JavaScript, the tool is fully responsive and user-friendly.
 
 🖼️ Preview---
+
 ![age](https://github.com/user-attachments/assets/8936b733-ae08-4ca0-87f7-bc096ee1f0d2)
 
 🚀 Features---
