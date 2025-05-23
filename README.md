@@ -5,6 +5,10 @@ A simple, elegant web-based application that calculates a user's age in years, m
 
 ![age](https://github.com/user-attachments/assets/8936b733-ae08-4ca0-87f7-bc096ee1f0d2)
 
+🌐 Live Demo---
+
+https://dev-sayem-hossain.github.io/CodeAlpha_Age-Calculator/
+
 🚀 Features---
 
 * Clean and responsive user interface.
@@ -71,4 +75,5 @@ For any inquiries or suggestions:
    Sayem Hossain
    📫 Email: sayemhossain1823@gmail.com
    📫 Email: sayem.hossain.official.01@gmail.com
+   🔗 LinkedIn: https://www.linkedin.com/in/sayem-hossain-dev/
    
