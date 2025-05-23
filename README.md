@@ -72,7 +72,9 @@ Contributions are welcome! Please feel free to submit a Pull Request
 📧 Contact---
 
 For any inquiries or suggestions:
+
    Sayem Hossain
+   
    📫 Email: sayemhossain1823@gmail.com
    📫 Email: sayem.hossain.official.01@gmail.com
    🔗 LinkedIn: https://www.linkedin.com/in/sayem-hossain-dev/
